@@ -1,0 +1,15 @@
+browser position chr2R:9961491-9994023
+
+track type=bigWig name=wt_NC14+12 description=wt_NC14+12_accessibility autoScale=off  alwaysZero=on maxHeightPixels=50 viewLimits=0:20 visibility=full color=25,25,112 smoothingWindow=5 windowingFunction=mean bigDataUrl=https://raw.githubusercontent.com/sblythe/ATAC-seq_wild-type_versus_bcd_osk_cic_tsl_Tl/main/ATAC_wt_NC14%2B12.bigwig
+
+browser position chr2R:9961491-9994023
+
+track type=bigWig name=wt_NC14+72 description=wt_NC14+72_accessibility autoScale=off  alwaysZero=on maxHeightPixels=50 viewLimits=0:20 visibility=full color=25,25,112 smoothingWindow=5 windowingFunction=mean bigDataUrl=https://raw.githubusercontent.com/sblythe/ATAC-seq_wild-type_versus_bcd_osk_cic_tsl_Tl/main/ATAC_wt_NC14%2B72.bigwig
+
+browser position chr2R:9961491-9994023
+
+track type=bigWig name=patternless_NC14+12 description=patternless_NC14+12_accessibility autoScale=off  alwaysZero=on maxHeightPixels=50 viewLimits=0:20 visibility=full color=255,99,71 smoothingWindow=5 windowingFunction=mean bigDataUrl=https://raw.githubusercontent.com/sblythe/ATAC-seq_wild-type_versus_bcd_osk_cic_tsl_Tl/main/ATAC_boctRM9_NC14%2B12.bigwig
+
+browser position chr2R:9961491-9994023
+
+track type=bigWig name=patternless_NC14+72 description=patternless_NC14+72_accessibility autoScale=off  alwaysZero=on maxHeightPixels=50 viewLimits=0:20 visibility=full color=255,99,71 smoothingWindow=5 windowingFunction=mean bigDataUrl=https://raw.githubusercontent.com/sblythe/ATAC-seq_wild-type_versus_bcd_osk_cic_tsl_Tl/main/ATAC_boctRM9_NC14%2B72.bigwig
